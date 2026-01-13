@@ -1,2 +1,3 @@
 Bonjour, voici mon premier fichier
 une deuxième ligne est ajouté
+Modification faite dans la branche feature-texte.
